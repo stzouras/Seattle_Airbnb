@@ -6,14 +6,14 @@ The analysis is published at: https://medium.com/@spilios.tzouras/leverage-data-
 
 
 # Libraries used:
-pandas # for data manipulation
-os # for data manipulation
-numpy # for data manipulation
-time # for adding time delays
-from sklearn.cluster import KMeans # for k-means clustering
-plotly # for making graphs
-matplotlib.pyplot # for data visualization
-from plotly import graph_objs # for data visualization
+- pandas # for data manipulation
+- os # for data manipulation
+- numpy # for data manipulation
+- time # for adding time delays
+- from sklearn.cluster import KMeans # for k-means clustering
+- plotly # for making graphs
+- matplotlib.pyplot # for data visualization
+- from plotly import graph_objs # for data visualization
 
 # Motivation
 The aim of the code hosted in this repo is to illustrate how could data and analytics be used to optimize services for Airbnb tenants. The dataset used is the Airbnb listed properties in Seattle
