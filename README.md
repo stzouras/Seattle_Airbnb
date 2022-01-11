@@ -28,4 +28,4 @@ The aim of the code hosted in this repo is to illustrate how could data and anal
 
 
 # Results
-The output of the analysis shows that mainstream machine learning techniques (such as clustering and non-linear regression) can reveal patterns that exist in teh data and can be used to streamline decision making
+The output of the analysis shows that mainstream machine learning techniques (such as clustering and non-linear regression) can reveal patterns that exist in the data, these inferences can be used to streamline decision making
